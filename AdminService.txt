@@ -2,4 +2,6 @@ New Admin service file in feature1 branch
 manage database
 closing the connection
 
-changed in Main branch
+
+Changed in Feature 2 Branch
+
